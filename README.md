@@ -3,9 +3,8 @@ Project for Data Visualization &amp; Analytics Class (CSE6242)
 
 
 **INSTALLATION**
-
 	1.	Open the notebook in Google Colab (recommended environment).
-		You can upload the notebook directly to colab.research.google.com or open it from Google Drive.
+You can upload the notebook directly to colab.research.google.com or open it from Google Drive.
 
 	2.	Upload your Kaggle API token:
 	•	Go to your Kaggle account settings and download your kaggle.json API key.
